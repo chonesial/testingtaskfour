@@ -1,0 +1,3 @@
+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
+
+git remote add origin https://chonesial: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@github.com/chonesial/ansiblewebserver.git/
